@@ -1,0 +1,21 @@
+{
+  "name": "less_jade",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "apel",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
